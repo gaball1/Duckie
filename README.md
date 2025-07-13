@@ -1,6 +1,6 @@
-# Duckie : English Learning App
+# Duckie : Languages Learning App
 
-Englearn is a cross-platform English learning application featuring a Flutter frontend and a .NET backend. The app is designed to help students improve their English skills through lessons, quizzes, conversations, and personalized progress tracking.
+Duckie is a cross-platform Languages learning application featuring a Flutter frontend and a .NET backend. The app is designed to help students improve their English skills through lessons, quizzes, conversations, and personalized progress tracking.
 
 ---
 
@@ -62,7 +62,7 @@ Englearn is a cross-platform English learning application featuring a Flutter fr
 
 ## App Flow & Screens
 
-The Englearn app provides a seamless and engaging learning experience through the following screens and user flow:
+The Duckie app provides a seamless and engaging learning experience through the following screens and user flow:
 
 1. **Splash Screen**
    - Animated logo and branding on app launch.
@@ -146,11 +146,65 @@ The Englearn app provides a seamless and engaging learning experience through th
 
 ## Screenshots
 
-Add screenshots of your app’s main screens here. Place images in a `screenshots/` folder and reference them as shown below:
 
 | Login Screen | Dashboard | Lesson View |
 |--------------|-----------|-------------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![Lesson](screenshots/lesson.png) |
+| ![Login](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20151955.png?raw=true) | ![Dashboard](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164158.png?raw=true)) | ![Lesson](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-06-21%20021018.png) |
+
+---
+
+## Screenshots Gallery
+
+Below are screenshots showcasing the main features and user interface of the Englearn app:
+
+| ![Splash](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-02-01%20211640.png?raw=true) | ![Login](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20151806.png?raw=true) | ![Home](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20151850.png?raw=true) |
+|:--:|:--:|:--:|
+| Splash | Intro | Register  |
+
+| ![Lesson](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20151955.png?raw=true) | ![Quiz](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20152006.png?raw=true) | ![Quiz Result](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20153200.png?raw=true) |
+|:--:|:--:|:--:|
+| Login | Reset Password | Level Test |
+
+| ![Situations](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20153226.png?raw=true) | ![Missions](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164158.png?raw=true) | ![Chat](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164212.png?raw=true) |
+|:--:|:--:|:--:|
+| Level Test Result  | Dashbord (Home View) | Units |
+
+| ![DuckieBot](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164223.png?raw=true) | ![Chat History](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164235.png?raw=true) | ![Coach List](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164243.png?raw=true) |
+|:--:|:--:|:--:|
+| Lessons | Complete Lessons | Unit Quiz |
+
+| ![Coach Profile](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164300.png?raw=true) | ![Search Friends](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164311.png?raw=true) | ![Chat with Friend](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164333.png?raw=true) |
+|:--:|:--:|:--:|
+| Correct Answer | Wrong Answer | Situations |
+
+| ![Languages](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164358.png?raw=true) | ![Add Language](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164409.png?raw=true) | ![Settings (Light)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164417.png?raw=true) |
+|:--:|:--:|:--:|
+| Conversations | Duckie Bot | Chat History |
+
+| ![Settings (Dark)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164427.png?raw=true) | ![Edit Profile](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164437.png?raw=true) | ![Languages (Light)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164445.png?raw=true) |
+|:--:|:--:|:--:|
+| Chat With Duckie | Coach List | Coach Profile |
+
+
+| ![Add Language](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164458.png?raw=true) | ![Settings](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164524.png?raw=true) | ![Edit Profile](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164553.png?raw=true) |
+|:--:|:--:|:--:|
+| Search Friends | Chat With Friends | User Languages |
+
+| ![Level Test](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164600.png?raw=true) | ![Level Test Result](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164612.png?raw=true) | ![Home (Light)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164619.png?raw=true) |
+|:--:|:--:|:--:|
+| Add Language | User Profiles | Settings ) |
+
+| ![Home (Dark)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164629.png?raw=true) | ![Learn (Light)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-06-19%20174649.png?raw=true) | ![Learn (Dark)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164648.png?raw=true) |
+|:--:|:--:|:--:|
+| Edit Profile | Learn Settings | Home (Dark) |
+
+| ![Learn (Dark)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164656.png?raw=true) | ![Learn (Light)](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164702.png?raw=true) | ![More Food Lesson](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164715.png?raw=true) |
+|:--:|:--:|:--:|
+| Units (Dark) | Units (Light) | Conversations (Dark) |
+
+| ![Food Lesson](https://github.com/gaball1/Duckie/blob/main/Screenshot%202025-07-13%20164725.png?raw=true) |
+|:--:|
+| Languages (Dark) |
 
 ---
 
@@ -187,7 +241,7 @@ WebApplication1/
 ### Prerequisites
 - Flutter SDK (latest stable)
 - .NET 6 SDK or later
-- Android Studio/Xcode (for mobile)
+- Android Studio/Visual Studio Code/Emaulator (for mobile)
 - Visual Studio Code/Visual Studio
 
 ### Setup
